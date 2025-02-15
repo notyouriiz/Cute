@@ -13,7 +13,7 @@ def draw_heart():
 
 def write_message(name):
     turtle.penup()
-    turtle.goto(-60, 120)
+    turtle.goto(10, 100)
     turtle.pendown()
     turtle.color("white")
     turtle.write(f"Happy Valentine's\n{name}!", align="center", font=("Arial", 16, "bold"))
