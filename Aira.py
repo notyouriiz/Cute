@@ -21,7 +21,7 @@ def write_message(name):
 turtle.speed(3)
 
 draw_heart()
-write_message("Your Name")  # Replace with a specific name
+write_message("Aira") 
 
 turtle.hideturtle()
 turtle.done()
